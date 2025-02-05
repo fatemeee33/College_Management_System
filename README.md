@@ -58,9 +58,4 @@ C. Students Can:
 
 ✅ Login & Logout
 
-Tech Stack Used
 
-    Backend: Django, Python
-    Frontend: HTML, CSS, JavaScript, Bootstrap, Owl Carousel
-    Database: SQLite (or PostgreSQL for production)
-    Other Tools: AJAX, jQuery
